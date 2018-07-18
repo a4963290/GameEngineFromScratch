@@ -12,5 +12,5 @@ namespace My{
 			virtual bool IsQuit();
 		protected:
 			bool m_bQuit;
-	}
+	};
 }

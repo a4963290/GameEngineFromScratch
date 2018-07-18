@@ -11,6 +11,6 @@ namespace My{
 			// One cycle of the main loop
 			virtual void Tick() = 0;
 
-			virtual void IsQuit() = 0;
+			virtual bool IsQuit() = 0;
 	};
 }
